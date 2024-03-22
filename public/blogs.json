@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 1,
+      "Cover": "https://picsum.photos/200/300?random=1",
+      "Title": "The Lost City",
+      "Author": "Emily Johnson",
+      "Author_img": "https://picsum.photos/200/200?random=2",
+      "Posted_date": "2024-03-21",
+      "Reading_time": 15,
+      "Hashtags": ["#adventure", "#mystery", "#fiction"]
+    },
+    {
+      "ID": 2,
+      "Cover": "https://picsum.photos/200/300?random=3",
+      "Title": "Beyond the Horizon",
+      "Author": "Michael Thompson",
+      "Author_img": "https://picsum.photos/200/200?random=4",
+      "Posted_date": "2024-03-20",
+      "Reading_time": 25,
+      "Hashtags": ["#sciencefiction", "#space", "#exploration"]
+    },
+    {
+      "ID": 3,
+      "Cover": "https://picsum.photos/200/300?random=5",
+      "Title": "The Secret Garden",
+      "Author": "Sarah Anderson",
+      "Author_img": "https://picsum.photos/200/200?random=6",
+      "Posted_date": "2024-03-19",
+      "Reading_time": 20,
+      "Hashtags": ["#fantasy", "#nature", "#magic"]
+    },
+    {
+      "ID": 4,
+      "Cover": "https://picsum.photos/200/300?random=7",
+      "Title": "Silent Echoes",
+      "Author": "David Roberts",
+      "Author_img": "https://picsum.photos/200/200?random=8",
+      "Posted_date": "2024-03-18",
+      "Reading_time": 30,
+      "Hashtags": ["#thriller", "#suspense", "#crime"]
+    },
+    {
+      "ID": 5,
+      "Cover": "https://picsum.photos/200/300?random=9",
+      "Title": "Whispers in the Dark",
+      "Author": "Jessica Parker",
+      "Author_img": "https://picsum.photos/200/200?random=10",
+      "Posted_date": "2024-03-17",
+      "Reading_time": 18,
+      "Hashtags": ["#horror", "#paranormal", "#ghosts"]
+    }
+  ]
+  
